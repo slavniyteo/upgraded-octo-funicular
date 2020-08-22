@@ -1,3 +1,4 @@
+    available for as long as needed to satisfy these requirements.
 
     e) Convey the object code using peer-to-peer transmission, provided
     you inform other peers where the object code and Corresponding

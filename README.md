@@ -1,3 +1,4 @@
+add to a covered work, you may (if authorized by the copyright holders of
 that material) supplement the terms of this License with terms:
 
     a) Disclaiming warranty or limiting liability differently from the

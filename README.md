@@ -1,3 +1,4 @@
+similar laws prohibiting or restricting circumvention of such
 measures.
 
   When you convey a covered work, you waive any legal power to forbid

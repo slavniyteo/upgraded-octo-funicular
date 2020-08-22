@@ -1,3 +1,4 @@
+patents cannot be used to render the program non-free.
 
   The precise terms and conditions for copying, distribution and
 modification follow.

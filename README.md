@@ -1,3 +1,4 @@
+form of a separately written license, or stated as exceptions;
 the above requirements apply either way.
 
   8. Termination.

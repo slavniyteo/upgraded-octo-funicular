@@ -1,3 +1,4 @@
+    trade names, trademarks, or service marks; or
 
     f) Requiring indemnification of licensors and authors of that
     material by anyone who conveys the material (or modified versions of

@@ -1,3 +1,4 @@
+and you may offer support or warranty protection for a fee.
 
   5. Conveying Modified Source Versions.
 

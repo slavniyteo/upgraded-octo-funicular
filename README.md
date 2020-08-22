@@ -1,3 +1,4 @@
+covered work, you indicate your acceptance of this License to do so.
 
   10. Automatic Licensing of Downstream Recipients.
 

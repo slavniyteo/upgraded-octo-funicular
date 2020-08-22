@@ -1,3 +1,4 @@
+by the Free Software Foundation.
 
   If the Program specifies that a proxy can decide which future
 versions of the GNU General Public License can be used, that proxy's

@@ -1,3 +1,4 @@
+the above requirements apply either way.
 
   8. Termination.
 

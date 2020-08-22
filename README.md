@@ -1,3 +1,4 @@
+  You may charge any price or no price for each copy that you convey,
 and you may offer support or warranty protection for a fee.
 
   5. Conveying Modified Source Versions.

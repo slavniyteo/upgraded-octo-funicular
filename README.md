@@ -1,3 +1,4 @@
+  A "covered work" means either the unmodified Program or a work based
 on the Program.
 
   To "propagate" a work means to do anything with it that, without

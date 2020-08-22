@@ -1,3 +1,4 @@
+    terms of sections 15 and 16 of this License; or
 
     b) Requiring preservation of specified reasonable legal notices or
     author attributions in that material or in the Appropriate Legal

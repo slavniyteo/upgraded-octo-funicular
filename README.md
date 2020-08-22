@@ -1,3 +1,4 @@
+    permission to license the work in any other way, but it does not
     invalidate such permission if you have separately received it.
 
     d) If the work has interactive user interfaces, each must display

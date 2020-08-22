@@ -1,3 +1,4 @@
+    conveying of source, or (2) access to copy the
     Corresponding Source from a network server at no charge.
 
     c) Convey individual copies of the object code with a copy of the

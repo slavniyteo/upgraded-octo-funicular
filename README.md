@@ -1,3 +1,4 @@
+                     END OF TERMS AND CONDITIONS
 
             How to Apply These Terms to Your New Programs
 

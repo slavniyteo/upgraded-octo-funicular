@@ -1,3 +1,4 @@
+
   A "covered work" means either the unmodified Program or a work based
 on the Program.
 

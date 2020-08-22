@@ -1,3 +1,4 @@
+License would be to refrain entirely from conveying the Program.
 
   13. Use with the GNU Affero General Public License.
 

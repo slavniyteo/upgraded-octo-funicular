@@ -1,3 +1,4 @@
+section 13, concerning interaction through a network will apply to the
 combination as such.
 
   14. Revised Versions of this License.

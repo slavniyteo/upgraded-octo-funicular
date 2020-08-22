@@ -1,3 +1,4 @@
+  0. Definitions.
 
   "This License" refers to version 3 of the GNU General Public License.
 

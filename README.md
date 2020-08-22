@@ -1,3 +1,4 @@
+party means to make such an agreement or commitment not to enforce a
 patent against the party.
 
   If you convey a covered work, knowingly relying on a patent license,

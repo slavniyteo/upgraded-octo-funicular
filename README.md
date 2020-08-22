@@ -1,3 +1,4 @@
+    customarily used for software interchange.
 
     b) Convey the object code in, or embodied in, a physical product
     (including a physical distribution medium), accompanied by a

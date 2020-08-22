@@ -1,3 +1,4 @@
+the only significant mode of use of the product.
 
   "Installation Information" for a User Product means any methods,
 procedures, authorization keys, or other information required to install

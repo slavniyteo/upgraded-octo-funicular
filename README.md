@@ -1,3 +1,4 @@
+permissions.  However, no additional obligations are imposed on any
 author or copyright holder as a result of your choosing to follow a
 later version.
 

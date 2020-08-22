@@ -1,3 +1,4 @@
+For more information on this, and how to apply and follow the GNU GPL, see
 <https://www.gnu.org/licenses/>.
 
   The GNU General Public License does not permit incorporating your program

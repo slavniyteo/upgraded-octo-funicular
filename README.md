@@ -1,3 +1,4 @@
+
   9. Acceptance Not Required for Having Copies.
 
   You are not required to accept this License in order to receive or

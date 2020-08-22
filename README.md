@@ -1,3 +1,4 @@
+want it, that you can change the software or use pieces of it in new
 free programs, and that you know you can do these things.
 
   To protect your rights, we need to prevent others from denying you

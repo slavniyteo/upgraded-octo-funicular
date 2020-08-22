@@ -1,3 +1,4 @@
+giving you legal permission to copy, distribute and/or modify it.
 
   For the developers' and authors' protection, the GPL clearly explains
 that there is no warranty for this free software.  For both users' and

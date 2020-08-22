@@ -1,3 +1,4 @@
+produce the work, or an object code interpreter used to run it.
 
   The "Corresponding Source" for a work in object code form means all
 the source code needed to generate, install, and (for an executable

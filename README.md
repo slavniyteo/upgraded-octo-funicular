@@ -1,3 +1,4 @@
+    Corresponding Source fixed on a durable physical medium
     customarily used for software interchange.
 
     b) Convey the object code in, or embodied in, a physical product

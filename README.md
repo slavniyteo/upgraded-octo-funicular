@@ -1,3 +1,4 @@
+    d) Limiting the use for publicity purposes of names of licensors or
     authors of the material; or
 
     e) Declining to grant rights under trademark law for use of some

@@ -1,3 +1,4 @@
+SUCH DAMAGES.
 
   17. Interpretation of Sections 15 and 16.
 

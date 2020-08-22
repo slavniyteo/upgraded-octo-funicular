@@ -1,3 +1,4 @@
+    "keep intact all notices".
 
     c) You must license the entire work, as a whole, under this
     License to anyone who comes into possession of a copy.  This

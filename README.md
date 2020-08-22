@@ -1,3 +1,4 @@
+contain the covered work, unless you entered into that arrangement,
 or that patent license was granted, prior to 28 March 2007.
 
   Nothing in this License shall be construed as excluding or limiting

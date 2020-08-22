@@ -1,3 +1,4 @@
+(if any) on which the executable work runs, or a compiler used to
 produce the work, or an object code interpreter used to run it.
 
   The "Corresponding Source" for a work in object code form means all

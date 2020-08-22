@@ -1,3 +1,4 @@
+any implied license or other defenses to infringement that may
 otherwise be available to you under applicable patent law.
 
   12. No Surrender of Others' Freedom.

@@ -1,3 +1,4 @@
+patent sublicenses in a manner consistent with the requirements of
 this License.
 
   Each contributor grants you a non-exclusive, worldwide, royalty-free

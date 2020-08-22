@@ -1,3 +1,4 @@
+    charge under subsection 6d.
 
   A separable portion of the object code, whose source code is excluded
 from the Corresponding Source as a System Library, need not be

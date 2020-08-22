@@ -1,3 +1,4 @@
+
   12. No Surrender of Others' Freedom.
 
   If conditions are imposed on you (whether by court order, agreement or

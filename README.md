@@ -1,3 +1,4 @@
+such as by intimate data communication or control flow between those
 subprograms and other parts of the work.
 
   The Corresponding Source need not include anything that users

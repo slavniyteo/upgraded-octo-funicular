@@ -1,3 +1,4 @@
+    clear directions next to the object code saying where to find the
     Corresponding Source.  Regardless of what server hosts the
     Corresponding Source, you remain obligated to ensure that it is
     available for as long as needed to satisfy these requirements.

@@ -1,3 +1,4 @@
+    a) The work must carry prominent notices stating that you modified
     it, and giving a relevant date.
 
     b) The work must carry prominent notices stating that it is

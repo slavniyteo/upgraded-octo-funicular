@@ -1,3 +1,4 @@
+or can get the source code.  And you must show them these terms so they
 know their rights.
 
   Developers that use the GNU GPL protect your rights with two steps:

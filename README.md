@@ -1,3 +1,4 @@
+    7.  This requirement modifies the requirement in section 4 to
     "keep intact all notices".
 
     c) You must license the entire work, as a whole, under this

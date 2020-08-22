@@ -1,3 +1,4 @@
+adversely affects the operation of the network or violates the rules and
 protocols for communication across the network.
 
   Corresponding Source conveyed, and Installation Information provided,

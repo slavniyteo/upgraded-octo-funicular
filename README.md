@@ -1,3 +1,4 @@
+    invalidate such permission if you have separately received it.
 
     d) If the work has interactive user interfaces, each must display
     Appropriate Legal Notices; however, if the Program has interactive

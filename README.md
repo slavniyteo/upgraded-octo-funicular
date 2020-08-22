@@ -1,3 +1,4 @@
+    Notices displayed by works containing it; or
 
     c) Prohibiting misrepresentation of the origin of that material, or
     requiring that modified versions of such material be marked in

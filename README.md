@@ -1,3 +1,4 @@
+patent against the party.
 
   If you convey a covered work, knowingly relying on a patent license,
 and the Corresponding Source of the work is not available for anyone

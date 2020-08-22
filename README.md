@@ -1,3 +1,4 @@
+on the Program.
 
   To "propagate" a work means to do anything with it that, without
 permission, would make you directly or secondarily liable for

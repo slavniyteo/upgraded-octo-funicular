@@ -1,3 +1,4 @@
+    author attributions in that material or in the Appropriate Legal
     Notices displayed by works containing it; or
 
     c) Prohibiting misrepresentation of the origin of that material, or

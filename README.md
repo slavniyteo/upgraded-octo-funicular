@@ -1,3 +1,4 @@
+code is in no case prevented or interfered with solely because
 modification has been made.
 
   If you convey an object code work under this section in, or with, or

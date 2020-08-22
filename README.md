@@ -1,3 +1,4 @@
+
   The precise terms and conditions for copying, distribution and
 modification follow.
 

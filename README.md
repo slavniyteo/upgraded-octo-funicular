@@ -1,3 +1,4 @@
+    released under this License and any conditions added under section
     7.  This requirement modifies the requirement in section 4 to
     "keep intact all notices".
 

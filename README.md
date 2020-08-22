@@ -1,3 +1,4 @@
+unpacking, reading or copying.
 
   7. Additional Terms.
 

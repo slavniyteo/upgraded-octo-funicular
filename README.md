@@ -1,3 +1,4 @@
+certain responsibilities if you distribute copies of the software, or if
 you modify it: responsibilities to respect the freedom of others.
 
   For example, if you distribute copies of such a program, whether

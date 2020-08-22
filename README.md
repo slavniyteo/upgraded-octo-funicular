@@ -1,3 +1,4 @@
+author or copyright holder as a result of your choosing to follow a
 later version.
 
   15. Disclaimer of Warranty.

@@ -1,3 +1,4 @@
+sale, or importing the Program or any portion of it.
 
   11. Patents.
 

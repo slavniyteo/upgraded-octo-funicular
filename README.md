@@ -1,3 +1,4 @@
+    it, and giving a relevant date.
 
     b) The work must carry prominent notices stating that it is
     released under this License and any conditions added under section

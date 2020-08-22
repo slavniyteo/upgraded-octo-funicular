@@ -1,3 +1,4 @@
+    authors of the material; or
 
     e) Declining to grant rights under trademark law for use of some
     trade names, trademarks, or service marks; or

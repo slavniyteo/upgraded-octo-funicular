@@ -1,3 +1,4 @@
+    interfaces that do not display Appropriate Legal Notices, your
     work need not make them do so.
 
   A compilation of a covered work with other separate and independent

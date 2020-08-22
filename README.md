@@ -1,3 +1,4 @@
+  The Corresponding Source need not include anything that users
 can regenerate automatically from other parts of the Corresponding
 Source.
 

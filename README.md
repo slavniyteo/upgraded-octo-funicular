@@ -1,3 +1,4 @@
+    you inform other peers where the object code and Corresponding
     Source of the work are being offered to the general public at no
     charge under subsection 6d.
 

@@ -1,3 +1,4 @@
+material under section 10.
 
   9. Acceptance Not Required for Having Copies.
 

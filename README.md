@@ -1,3 +1,4 @@
+    any liability that these contractual assumptions directly impose on
     those licensors and authors.
 
   All other non-permissive additional terms are considered "further
